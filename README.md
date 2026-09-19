@@ -7,6 +7,8 @@ A sleek, animated expanding search bar built with HTML, CSS and vanilla JavaScri
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 
+🔗 **Live Demo:** [https://shena9y.github.io/animation-button/](https://shena9y.github.io/animation-button/)
+
 ## ✨ Features
 
 - 🔍 Expanding search box (50px → 350px) with a spring-like `cubic-bezier(0.68, -0.55, 0.265, 1.55)` easing
